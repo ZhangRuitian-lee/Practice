@@ -1,0 +1,3 @@
+.ipynb_checkpoints
+lesson01-1-checkpoint.ipynb
+lesson02-1-checkpoint.ipynb
